@@ -1,0 +1,6 @@
+{
+    "name": "pyrocms/store",
+    "require": {
+        "anomaly/store-module": "dev-master"
+    }
+}
