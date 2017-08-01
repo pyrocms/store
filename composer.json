@@ -4,6 +4,7 @@
     "license": "MIT",
     "require": {
         "anomaly/store-module": "dev-master",
-        "anomaly/carts-module": "dev-master"
+        "anomaly/carts-module": "dev-master",
+        "anomaly/products-module": "dev-master"
     }
 }
