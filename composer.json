@@ -1,6 +1,7 @@
 {
     "name": "pyrocms/store",
     "description": "The ecommerce store bundle for Pyro.",
+    "license": "MIT",
     "require": {
         "anomaly/store-module": "dev-master",
         "anomaly/carts-module": "dev-master"
