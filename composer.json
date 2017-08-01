@@ -1,6 +1,7 @@
 {
     "name": "pyrocms/store",
     "require": {
-        "anomaly/store-module": "dev-master"
+        "anomaly/store-module": "dev-master",
+        "anomaly/carts-module": "dev-master"
     }
 }
