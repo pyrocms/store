@@ -6,6 +6,7 @@
         "anomaly/store-module": "dev-master",
         "anomaly/carts-module": "dev-master",
         "anomaly/taxes-module": "dev-master",
+        "anomaly/orders-module": "dev-master",
         "anomaly/products-module": "dev-master",
         "anomaly/shipping-module": "dev-master",
         "anomaly/customers-module": "dev-master",
