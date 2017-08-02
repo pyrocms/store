@@ -9,6 +9,7 @@
         "anomaly/orders-module": "dev-master",
         "anomaly/products-module": "dev-master",
         "anomaly/shipping-module": "dev-master",
+        "anomaly/checkouts-module": "dev-master",
         "anomaly/customers-module": "dev-master",
         "anomaly/flat_rate_shipping_method-extension": "dev-master"
     }
