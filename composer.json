@@ -12,6 +12,7 @@
         "anomaly/checkouts-module": "dev-master",
         "anomaly/customers-module": "dev-master",
         "anomaly/discounts-module": "dev-master",
+        "fixed_amount_discount-extension": "dev-master",
         "anomaly/basic_checkout-extension": "dev-master",
         "anomaly/flat_rate_shipping_method-extension": "dev-master"
     }
