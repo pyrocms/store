@@ -16,6 +16,7 @@
         "anomaly/tag_discount_filter-extension": "dev-master",
         "anomaly/fixed_amount_discount-extension": "dev-master",
         "anomaly/category_discount_filter-extension": "dev-master",
-        "anomaly/flat_rate_shipping_method-extension": "dev-master"
+        "anomaly/flat_rate_shipping_method-extension": "dev-master",
+        "anomaly/subtotal_discount_condition-extension": "dev-master"
     }
 }
