@@ -11,7 +11,7 @@
         "anomaly/products-module": "dev-master",
         "anomaly/shipping-module": "dev-master",
         "anomaly/checkouts-module": "dev-master",
-        "anomaly/customers-module": "dev-master",
+        "anomaly/customers-module": "~1.0.0",
         "anomaly/discounts-module": "dev-master",
         "anomaly/basic_checkout-extension": "dev-master",
         "anomaly/tag_discount_filter-extension": "dev-master",
