@@ -3,7 +3,6 @@
     "description": "The ecommerce store bundle for Pyro.",
     "license": "MIT",
     "require": {
-        "anomaly/store-module": "dev-master",
         "anomaly/carts-module": "dev-master",
         "anomaly/taxes-module": "dev-master",
         "anomaly/orders-module": "dev-master",
