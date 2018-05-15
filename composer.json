@@ -6,18 +6,11 @@
         "anomaly/carts-module": "dev-master",
         "anomaly/taxes-module": "dev-master",
         "anomaly/orders-module": "dev-master",
-        "anomaly/payments-module": "dev-master",
         "anomaly/products-module": "dev-master",
         "anomaly/shipping-module": "dev-master",
         "anomaly/checkouts-module": "dev-master",
-        "anomaly/customers-module": "~1.0.0",
-        "anomaly/discounts-module": "dev-master",
+        "anomaly/customers-module": "dev-master",
         "anomaly/basic_checkout-extension": "dev-master",
-        "anomaly/tag_discount_filter-extension": "dev-master",
-        "anomaly/fixed_amount_discount-extension": "dev-master",
-        "anomaly/category_discount_filter-extension": "dev-master",
-        "anomaly/flat_rate_shipping_method-extension": "dev-master",
-        "anomaly/subtotal_discount_condition-extension": "dev-master",
-        "anomaly/customer_group_discount_condition-extension": "dev-master"
+        "anomaly/flat_rate_shipping_method-extension": "dev-master"
     }
 }
