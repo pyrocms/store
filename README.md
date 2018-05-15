@@ -4,9 +4,9 @@ The default store bundle for Pyro.
 
 ### Until we finish our plan for distribution please install manually as described below.
 
-Copy the requirements to your composer.json file and `composer update`.
+Copy the project requirements to your `composer.json` file and run `composer update`. Be sure to use `--prefer-source` if you plan to contribute.
 
-Then run the following artisan commands:
+Then install all the addons with the following artisan commands:
 
 ```bash
 php artisan addon:install anomaly.module.store
