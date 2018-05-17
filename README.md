@@ -9,7 +9,6 @@ Copy the project requirements to your `composer.json` file and run `composer upd
 Then install all the addons with the following artisan commands:
 
 ```bash
-php artisan addon:install anomaly.module.store
 php artisan addon:install anomaly.module.carts
 php artisan addon:install anomaly.module.taxes
 php artisan addon:install anomaly.module.orders
